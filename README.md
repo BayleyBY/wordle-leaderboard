@@ -72,3 +72,7 @@ python3 wordle_leaderboard.py -m 2          # two months ago
   most games played.
 - The emoji bar maps the average onto a 3.0–5.0 range (full bar = 3.0
   average or better).
+
+## License
+
+MIT — see [LICENSE](LICENSE).
