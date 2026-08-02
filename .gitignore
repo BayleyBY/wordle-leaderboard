@@ -1,0 +1,15 @@
+# Personal data — never commit
+config.json
+
+# Legacy local scripts with hardcoded personal info
+extract_wordle_scores.py
+extract_wordle_scores_v008.py
+WordleScoreScraper.py
+old_versions/
+
+# Local screenshot with real names
+wordle_leaderboard.png
+
+# macOS / local tooling
+.DS_Store
+.claude/settings.local.json

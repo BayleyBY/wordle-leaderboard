@@ -1,0 +1,9 @@
+{
+  "name_map": {
+    "Me": "YourName",
+    "+15551234567": "Alice",
+    "+15559876543": "Bob"
+  },
+  "qualifying_games": 10,
+  "db_path": null
+}
